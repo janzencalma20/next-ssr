@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.305" height="27.703" viewBox="0 0 16.305 27.703">
+  <g id="noun_apple_watch_bluetooth_820310" data-name="noun_apple watch bluetooth_820310" transform="translate(-31.457 -18.02)">
+    <g id="Group_779" data-name="Group 779" transform="translate(31.957 18.52)">
+      <g id="Group_778" data-name="Group 778" transform="translate(0 0)">
+        <g id="Group_775" data-name="Group 775" transform="translate(0 5.364)">
+          <path id="Path_37615" data-name="Path 37615" d="M45.735,45.021a2.127,2.127,0,0,1-2.121,2.121H34.078a2.127,2.127,0,0,1-2.121-2.121V33.289a2.127,2.127,0,0,1,2.121-2.121h9.537a2.127,2.127,0,0,1,2.121,2.121Z" transform="translate(-31.957 -31.168)" fill="#606B76" stroke="rgba(255,255,255,0)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <line id="Line_2" data-name="Line 2" y2="2.654" transform="translate(15.305 8.836)" fill="none" stroke="rgba(255,255,255,0)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="Group_776" data-name="Group 776" transform="translate(2.547)">
+          <path id="Path_37616" data-name="Path 37616" d="M46.647,22.321V19.368a.85.85,0,0,0-.848-.848H38.811a.85.85,0,0,0-.848.848v2.953" transform="translate(-37.963 -18.52)" fill="#606B76" stroke="rgba(255,255,255,0)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <g id="Group_777" data-name="Group 777" transform="translate(2.547 22.902)">
+          <path id="Path_37617" data-name="Path 37617" d="M46.647,72.519v2.953a.85.85,0,0,1-.848.848H38.811a.85.85,0,0,1-.848-.848V72.519" transform="translate(-37.963 -72.519)" fill="#606B76" stroke="rgba(255,255,255,0)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_780" data-name="Group 780" transform="translate(36.554 27.211)">
+      <path id="Path_37618" data-name="Path 37618" d="M42.8,41.3,45.088,43.6,47.38,41.3l-2.292-2.291v9.32l2.292-2.292L45.088,43.75,42.8,46.041" transform="translate(-42.796 -39.013)" fill="#606B76" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
